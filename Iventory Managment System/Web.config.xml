@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<configuration>
+	<connectionStrings>
+		<add name="YourConnectionStringName" connectionString="Data Source=DESKTOP-5IMBASI\SQLEXPRESS;Initial Catalog=InvenTrack2;Integrated Security=True" providerName="System.Data.SqlClient" />
+	</connectionStrings>
+	<system.web>
+		<compilation debug="true" targetFramework="4.5" />
+		<httpRuntime targetFramework="4.5" />
+	</system.web>
+</configuration>
